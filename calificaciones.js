@@ -1,5 +1,5 @@
 /*
-  app.js - Procesador de Calificaciones (ejercicio página 8)
+  app.js - Procesador de Calificaciones (ejercicio página 8 Jose Rafael Cuevas Cabrera)
   Ejecutar: node app.js
 */
 
@@ -75,3 +75,4 @@ setTimeout(function() {
 }, 2000);
 
 console.log('Script continúa ejecutándose mientras se simula el guardado...');
+
